@@ -1,8 +1,8 @@
 class Cectl < Formula
   desc "Cloud Elements Platform CLI"
   homepage "https://github.com/ghchinoy/cectl"
-  url "https://github.com/ghchinoy/cectl/releases/download/v0.10.0/cectl-0.10.0.tar.gz"
-  sha256 "feca9401a3d4358920dffdf47bcde20e08d70eb563a53c6d57e1a6972b34a01e"
+  url "https://github.com/ghchinoy/cectl/releases/download/v0.11.0/cectl-0.11.0.tar.gz"
+  sha256 "db47268a987ea4421fdcb4d9654abf808558e0d29d13f495ede3fcd1106ab08a"
 
   bottle :unneeded
 
