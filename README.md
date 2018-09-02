@@ -1,6 +1,6 @@
 # Cloud Elements Homebrew Tap
 
-This repo is a convenience fo installing my cli tools:
+This repo is a convenience for installing my cli tools:
 
 * [cectl](https://github.com/ghchinoy/cectl), a cli for the Cloud Elements platform
 
